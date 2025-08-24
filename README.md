@@ -1,6 +1,6 @@
 <!-- Profile Header with Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:000000,100:1E90FF&height=180&section=header&text=Syeda%20Ambreen%20Abid&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:000000,100:1E90FF&height=180&section=header&text=Syeda%20Ambreen%20Abid&fontSize=40&fontColor=F3C0008&animation=twinkling&fontAlignY=35" />
 </div>
 
 <!-- Typing SVG -->
