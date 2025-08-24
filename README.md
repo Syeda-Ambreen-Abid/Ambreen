@@ -1,12 +1,12 @@
 <!-- Profile Header with Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:000000,100:1E90FF&height=180&section=header&text=Syeda%20Ambreen%20Abid&fontSize=40&fontColor=F3C0008&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FAF9EE,100:EEEEEE&height=180&section=header&text=Syeda%20Ambreen%20Abid&fontSize=40&fontColor=3E0703&animation=twinkling&fontAlignY=35" />
 </div>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/Syeda-Ambreen-Abid">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=24&pause=600&color=FF0000&center=true&vCenter=true&width=650&lines=Biomedical+Engineer+%7C+Python+Developer;AI+Enthusiast+%7C+Agentic+AI+Learner;Generative+AI+%26+Deep+Learning+Explorer;Data+Analytics+%7C+Visualization" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=24&pause=600&color=014D4E&center=true&vCenter=true&width=650&lines=Biomedical+Engineer+%7C+Python+Developer;AI+Enthusiast+%7C+Agentic+AI+Learner;Generative+AI+%26+Deep+Learning+Explorer;Data+Analytics+%7C+Visualization" alt="Typing Animation">
   </a>
 </p>
 
@@ -47,6 +47,7 @@
 ---
 
 <!-- Footer -->
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEEEEE,100:FAF9EE&height=120&section=footer" />
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:000000,100:FF0000&height=120&section=footer" />
 </div>
