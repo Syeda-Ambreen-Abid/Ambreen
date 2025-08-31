@@ -66,10 +66,6 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzjfBrmgqGx1J5e7OZDHtuJ4PNNUXwgIFugw&s" width="60" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/yourAnimatedGradient.gif" width="100%" alt="Fun Background Animation" />
-</p>
-
 </body>
 
 </html>
