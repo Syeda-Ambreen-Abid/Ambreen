@@ -55,16 +55,6 @@
 
 ---
 
-## 🛠 Skills
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
-  <img src="https://cdn.educba.com/academy/wp-content/uploads/2020/01/Deep-Learning.jpg" width="60" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQreBNASZVyRbrzKbBF75VPZeSAm3KS8_tp2A&s" width="60" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdz6YodKm5f6f3uOVf69tUpuYOt7_94HUAfg&s" width="60" />
-  <img src="https://pub-e93d5c9fdf134c89830082377f6df465.r2.dev/2025/01/Generative-AI-edited.webp" width="60" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzjfBrmgqGx1J5e7OZDHtuJ4PNNUXwgIFugw&s" width="60" />
-</p>
 
 </body>
 
