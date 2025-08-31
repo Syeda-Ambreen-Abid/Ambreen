@@ -10,22 +10,15 @@
 </p>
 
 
-<!-- Skills / Tech Section with Sequential Fade-in -->
-    <div class="skills-section" style="text-align: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" class="skill"
-            style="width:70px; transform: rotate(-5deg);">
-        <img src="https://cdn.educba.com/academy/wp-content/uploads/2020/01/Deep-Learning.jpg" class="skill"
-            style="width:95px;">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQreBNASZVyRbrzKbBF75VPZeSAm3KS8_tp2A&s"
-            class="skill" style="width:100px;">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdz6YodKm5f6f3uOVf69tUpuYOt7_94HUAfg&s"
-            class="skill" style="width:90px;">
-        <img src="https://pub-e93d5c9fdf134c89830082377f6df465.r2.dev/2025/01/Generative-AI-edited.webp" class="skill"
-            style="width:100px;">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzjfBrmgqGx1J5e7OZDHtuJ4PNNUXwgIFugw&s"
-            class="skill" style="width:80px; transform: rotate(10deg);">
-    </div>
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" />
+  <img src="https://cdn.educba.com/academy/wp-content/uploads/2020/01/Deep-Learning.jpg" width="95" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQreBNASZVyRbrzKbBF75VPZeSAm3KS8_tp2A&s" width="100" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdz6YodKm5f6f3uOVf69tUpuYOt7_94HUAfg&s" width="90" />
+  <img src="https://pub-e93d5c9fdf134c89830082377f6df465.r2.dev/2025/01/Generative-AI-edited.webp" width="100" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzjfBrmgqGx1J5e7OZDHtuJ4PNNUXwgIFugw&s" width="80" />
+</p>
+
 
 ## 👩‍💻 About Me  
 - 🎓 **Biomedical Engineering Student @ NED University**  
