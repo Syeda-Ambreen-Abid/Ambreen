@@ -66,24 +66,10 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzjfBrmgqGx1J5e7OZDHtuJ4PNNUXwgIFugw&s" width="60" />
 </p>
 
- <!-- Fun Background Animation -->
-    <div style="position:relative; height:120px; overflow:hidden;">
-        <div
-            style="position:absolute; width:200%; height:120px; background:linear-gradient(90deg, #00f, #0ff, #0f0, #ff0, #f00); animation: moveBG 8s linear infinite;">
-        </div>
-    </div>
+<p align="center">
+  <img src="https://i.imgur.com/yourAnimatedGradient.gif" width="100%" alt="Fun Background Animation" />
+</p>
 
-    <style>
-        @keyframes moveBG {
-            0% {
-                transform: translateX(0%);
-            }
-
-            100% {
-                transform: translateX(-50%);
-            }
-        }
-    </style>
 </body>
 
 </html>
