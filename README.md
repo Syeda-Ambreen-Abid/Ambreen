@@ -1,11 +1,10 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=70&pause=1000&color=061578&center=true&vCenter=true&width=900&lines=Syeda+Ambreen+Abid" alt="Syeda Ambreen Abid" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=70&pause=600&color=061578&background=fff8f0&center=true&vCenter=true&width=1000&height=120&lines=Syeda+Ambreen+Abid&repeat=false" alt="Syeda Ambreen Abid"/>
 </h1>
 
 <p align="center">
   <a href="https://github.com/Syeda-Ambreen-Abid">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=700&size=31&pause=600&color=#061578&center=true&vCenter=true&width=700&lines=Biomedical+Engineer+%7C+Python+Developer;AI+Enthusiast+%7C+Agentic+AI+Learner;Generative+AI+%26+Deep+Learning+Explorer;Aspiring+Data Analyst | Power BI Enthusiast" >
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=700&size=28&pause=1000&color=e09410&center=true&vCenter=true&width=1000&height=80&lines=Biomedical+Engineer+%7C+Python+Developer;AI+Enthusiast+%7C+Agentic+AI+Learner;Generative+AI+%26+Deep+Learning+Explorer;Aspiring+Data+Analyst+%7C+Power+BI+Enthusiast" alt="Typing Animation"/>
   </a>
 </p>
 
@@ -18,7 +17,6 @@
   <img src="https://pub-e93d5c9fdf134c89830082377f6df465.r2.dev/2025/01/Generative-AI-edited.webp" width="100" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzjfBrmgqGx1J5e7OZDHtuJ4PNNUXwgIFugw&s" width="80" />
 </p>
-
 
 ## 👩‍💻 About Me  
 - 🎓 **Biomedical Engineering Student @ NED University**  
@@ -41,6 +39,13 @@
 </p>
 
 ---
+
+## 🛠️ Skills  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&pause=1000&color=FF5733&center=true&width=950&lines=🐍+Python;🧠+Deep+Learning;🤖+Machine+Learning;✨+Generative+AI;🕹+Agentic+AI;📊+Data+Analytics;📈+Power+BI" />
+</p>
+
 
 ## 🌐 Connect with Me  
 
