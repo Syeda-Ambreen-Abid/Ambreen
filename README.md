@@ -1,4 +1,3 @@
-# Syeda Ambreen Abid
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=60&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Syeda+Ambreen+Abid" alt="Syeda Ambreen Abid" />
@@ -57,6 +56,28 @@
   <img src="https://pub-e93d5c9fdf134c89830082377f6df465.r2.dev/2025/01/Generative-AI-edited.webp" width="60" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzjfBrmgqGx1J5e7OZDHtuJ4PNNUXwgIFugw&s" width="60" />
 </p>
+
+ <!-- Fun Background Animation -->
+    <div style="position:relative; height:120px; overflow:hidden;">
+        <div
+            style="position:absolute; width:200%; height:120px; background:linear-gradient(90deg, #00f, #0ff, #0f0, #ff0, #f00); animation: moveBG 8s linear infinite;">
+        </div>
+    </div>
+
+    <style>
+        @keyframes moveBG {
+            0% {
+                transform: translateX(0%);
+            }
+
+            100% {
+                transform: translateX(-50%);
+            }
+        }
+    </style>
+</body>
+
+</html>
 
 ---
 
