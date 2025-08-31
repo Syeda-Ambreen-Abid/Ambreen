@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=60&pause=1000&color=#061578&center=true&vCenter=true&width=700&lines=Syeda+Ambreen+Abid" alt="Syeda Ambreen Abid" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=60&pause=1000&color=061578&center=true&vCenter=true&width=700&lines=Syeda+Ambreen+Abid" alt="Syeda Ambreen Abid" />
 </h1>
 
 <p align="center">
